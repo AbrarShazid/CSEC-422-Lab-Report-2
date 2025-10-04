@@ -2,7 +2,7 @@
 ---
 
 ## Live Demo  
-**🔗 Live Link:** [View Project Here](https://abrarshazid.github.io/CSEC-422-Lab-Report-2/)  
+**🔗 Live Link:** [Click Here](https://abrarshazid.github.io/CSEC-422-Lab-Report-2/)  
 
 
 ---
